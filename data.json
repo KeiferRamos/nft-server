@@ -1,0 +1,27 @@
+{
+  "user": {
+    "first_name": "keifer",
+    "username": "keifer_ramos",
+    "password": "kimpoy123",
+    "verify": "kimpoy123",
+    "last_name": "Ramos",
+    "about_me": "I'm a developer at Whitecloak technology Incorporation",
+    "birth_date": "2001-10-10",
+    "gender": "male",
+    "address": {
+      "street": "Apitong",
+      "barangay": "Marikina Heights",
+      "city": "Marikina",
+      "block_no": 2,
+      "province": "Metro Manila",
+      "country": "Philippines"
+    }
+  },
+  "nft": {
+    "image": "https://images.unsplash.com/photo-1642388813992-f12b04ba3db0?q=80&w=2944&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Raw denim four dollar",
+    "description": "Twee unicorn big mood cardigan leggings skateboard,",
+    "category": "gaming",
+    "price": 250
+  }
+}
